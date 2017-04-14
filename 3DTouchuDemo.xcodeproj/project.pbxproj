@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		0013E67E1EA058BB004EF341 /* LPTestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0013E67D1EA058BB004EF341 /* LPTestViewController.m */; };
+		0013E6811EA064F6004EF341 /* LPFirstController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0013E6801EA064F6004EF341 /* LPFirstController.m */; };
 		004B8BA91DD40BD100A4F4B8 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 004B8BA81DD40BD100A4F4B8 /* main.m */; };
 		004B8BAC1DD40BD100A4F4B8 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 004B8BAB1DD40BD100A4F4B8 /* AppDelegate.m */; };
 		004B8BAF1DD40BD100A4F4B8 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 004B8BAE1DD40BD100A4F4B8 /* ViewController.m */; };
@@ -19,6 +20,8 @@
 /* Begin PBXFileReference section */
 		0013E67C1EA058BB004EF341 /* LPTestViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = LPTestViewController.h; path = ../LPTestViewController.h; sourceTree = "<group>"; };
 		0013E67D1EA058BB004EF341 /* LPTestViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = LPTestViewController.m; path = ../LPTestViewController.m; sourceTree = "<group>"; };
+		0013E67F1EA064F6004EF341 /* LPFirstController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LPFirstController.h; sourceTree = "<group>"; };
+		0013E6801EA064F6004EF341 /* LPFirstController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LPFirstController.m; sourceTree = "<group>"; };
 		004B8BA41DD40BD100A4F4B8 /* 3DTouchuDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 3DTouchuDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		004B8BA81DD40BD100A4F4B8 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		004B8BAA1DD40BD100A4F4B8 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -65,6 +68,8 @@
 				004B8BAB1DD40BD100A4F4B8 /* AppDelegate.m */,
 				004B8BAD1DD40BD100A4F4B8 /* ViewController.h */,
 				004B8BAE1DD40BD100A4F4B8 /* ViewController.m */,
+				0013E67F1EA064F6004EF341 /* LPFirstController.h */,
+				0013E6801EA064F6004EF341 /* LPFirstController.m */,
 				0013E67C1EA058BB004EF341 /* LPTestViewController.h */,
 				0013E67D1EA058BB004EF341 /* LPTestViewController.m */,
 				004B8BB01DD40BD100A4F4B8 /* Main.storyboard */,
@@ -160,6 +165,7 @@
 				004B8BAF1DD40BD100A4F4B8 /* ViewController.m in Sources */,
 				004B8BAC1DD40BD100A4F4B8 /* AppDelegate.m in Sources */,
 				004B8BA91DD40BD100A4F4B8 /* main.m in Sources */,
+				0013E6811EA064F6004EF341 /* LPFirstController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
